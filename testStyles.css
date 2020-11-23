@@ -1,0 +1,115 @@
+body {
+    background: #E2FFF0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.Media {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Social {
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 30px;
+    background:#A7C8F2;
+    border-radius: 5px;
+    box-shadow: 5px 10px #08023b;
+}
+
+.Meme {
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 30px;
+    background:#A7C8F2;
+    border-radius: 5px;
+    box-shadow: 5px 10px #08023b;
+}
+
+.Social img {
+    width: 500px;
+    height: 500px;
+    border: 2px solid #3E4A47;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+.Meme img {
+    width: 500px;
+    height: 500px;
+    border: 2px solid #3E4A47;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    color: #46658C;
+    text-align: center;
+}
+
+a {
+    text-decoration:none;
+    color: whitesmoke;
+}
+
+.Social a:hover {
+    color: #3E4A47;
+}
+
+.Meme a:hover {
+    color: #3E4A47;
+}
+
+.TopSecret {
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 30px;
+    background: #A7C8F2;
+    border-radius: 5px;
+    box-shadow: 5px 10px #08032B;
+}
+
+.TopSecret img {
+    width: 500px;
+    height: 500px;
+    border: 2px solid #3E4A47;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+.TopSecret a:hover {
+    color: #3E4A47;
+}
+
+.Wishlist {
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 30px;
+    background: #A7C8F2;
+    border-radius: 5px;
+    box-shadow: 5px 10px #08032B;
+}
+
+.Wishlist img {
+    width: 500px;
+    height: 500px;
+    border: 2px solid #3E4A47;
+    margin-right: 20px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+}
+
+.Wishlist a:hover {
+    color: #3E4A47;
+}
